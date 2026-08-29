@@ -23,3 +23,27 @@ The system is designed to:
 The goal is not maximum application volume.
 
 **Interview Probability × Role Quality × Full-Time Conversion Potential ÷ Time Required**
+## Project Status
+
+**Current:** Research and decision framework implemented.
+
+The project currently includes:
+
+- Configurable role and company targeting
+- Job-fit scoring rules
+- Deep-research workflow
+- Recurring daily-scout workflow
+- Verification and deduplication logic
+- Application-preparation framework
+- Sanitized example job and application data
+
+### Next Build
+
+The next phase will convert the documented workflow into a runnable pipeline with:
+
+- Automated job collection
+- Persistent search history
+- Duplicate detection
+- Fit scoring
+- Structured CSV reporting
+- Scheduled execution
