@@ -1,4 +1,7 @@
+
 # Job Search Intelligence Agent
+
+Status: Active development / functional prototype
 
 An AI-assisted internship research and application system designed to discover, verify, prioritize, and prepare high-fit opportunities.
 
