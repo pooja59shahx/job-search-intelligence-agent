@@ -1,0 +1,16 @@
+fit_score:
+  exceptional: 90
+  strong: 80
+  good: 70
+  stretch: 60
+
+minimum_alert_score: 75
+
+weights:
+  role_relevance: 30
+  resume_match: 25
+  location_match: 15
+  recency: 10
+  conversion_potential: 10
+  contactability: 5
+  company_quality: 5
