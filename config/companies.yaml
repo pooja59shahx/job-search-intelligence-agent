@@ -1,0 +1,30 @@
+priority_watchlist:
+  - HubSpot
+  - Okta
+  - Chime
+  - ServiceNow
+  - Zscaler
+  - CrowdStrike
+  - Datadog
+  - MongoDB
+  - Databricks
+  - Block
+  - Charles Schwab
+
+discovered_high_fit:
+  - Zipline
+  - Simular
+  - Leland
+  - Etched
+
+industries:
+  - SaaS
+  - Fintech
+  - Artificial Intelligence
+  - Cybersecurity
+  - Data Infrastructure
+  - Health Tech
+  - B2B Technology
+
+discovery:
+  search_beyond_watchlist: true
